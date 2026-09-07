@@ -5,7 +5,7 @@ about:
   head: 86986df
   archived: false
   latestVersion: "v0.15.1"
-  collectedAt: 2026-09-07T05:04:23Z
+  collectedAt: 2026-09-07T19:21:23Z
 timeline:
   created: 2021-10-09
   lastCommit: 2026-05-30
@@ -83,7 +83,7 @@ total:
   commit: 80
 ---
 path: /home/runner/.x-repo/github.com/alajmo/sake
-collectedAt: 2026-09-07T05:04:24Z
+collectedAt: 2026-09-07T19:21:24Z
 loc:
   Go:
     code: 11381
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:25+00:00
+  collectedAt: 2026-09-07T19:21:25+00:00
   platform:
     darwin/arm64:
       name:  sake_0.15.1_darwin_arm64.tar.gz
