@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3164212,
       "digest": null,
-      "download_count": 755,
+      "download_count": 756,
       "created_at": "2023-09-25T10:00:20Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_amd64.tar.gz"
