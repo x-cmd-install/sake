@@ -12,6 +12,18 @@
 x install sake
 ```
 
+## Code insight
+
+Total: **15,737** lines of code across **102** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 11,381 | 759 | 2,086 | 66 |
+| Yaml | 2,668 | 71 | 411 | 19 |
+| Svg | 1,374 | 139 | 3 | 9 |
+| Sh | 172 | 11 | 34 | 7 |
+| Json | 73 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/alajmo/sake>
@@ -23,6 +35,25 @@ x install sake
 - **Latest**: `v0.15.1` (2023-09-25)
 - **Last commit**: 2026-05-30
 - **Assets in release**: 16
+
+## Popularity
+
+- **Stars**: 751 · **Forks**: 23 · **Open issues**: 36 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 14 · **Merged PRs**: 26 · **Open PRs**: 4 · **Closed issues**: 24 · **Open issues**: 12 · **Commits**: 80
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 360d | 2025-09-15 | 0 | 1 | 2 | 0 | 1 | 1 |
+| last720d | 2024-09-20 | 0 | 1 | 2 | 1 | 3 | 6 |
 
 ## Release assets
 
@@ -45,33 +76,9 @@ x install sake
 | [sake_0.15.1_windows_386.zip](https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_windows_386.zip) | 3.0 MiB | `native/win/x64` |
 | [sake_0.15.1_windows_amd64.zip](https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_windows_amd64.zip) | 3.1 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 751 · **Forks**: 23 · **Open issues**: 36 · **Contributors**: 3
-
-## Totals (cumulative)
-
-- **Releases**: 14 · **Merged PRs**: 26 · **Open PRs**: 4 · **Closed issues**: 24 · **Open issues**: 12 · **Commits**: 80
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 2 | 0 | 1 | 1 |
-
-## Code size
-
-Total: **15,737** lines of code across **102** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 11,381 | 759 | 2,086 | 66 |
-| Yaml | 2,668 | 71 | 411 | 19 |
-| Svg | 1,374 | 139 | 3 | 9 |
-| Sh | 172 | 11 | 34 | 7 |
-| Json | 73 | 0 | 0 | 1 |
+Reported by **4** distros on [repology.org](https://repology.org/project/sake). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -82,4 +89,4 @@ Install metadata for sake lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:38:18Z._
