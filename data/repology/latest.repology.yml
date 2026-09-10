@@ -1,0 +1,50 @@
+- repo: aur
+  srcname: sake
+  binname: sake
+  visiblename: sake
+  version: 0.14.0
+  origversion: 0.14.0-1
+  status: outdated
+  summary: CLI tool that enables you to run commands on servers via ssh
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: sake-git
+  binname: sake-git
+  visiblename: sake-git
+  version: r1.0.1
+  origversion: r1.0.1-1
+  status: rolling
+  summary: A new aur helper written in Go, created for people's convenience
+  maintainers:
+    - nespaset@aur
+  licenses:
+    - Apache
+- repo: freebsd
+  srcname: sysutils/sake
+  binname: sake
+  visiblename: sysutils/sake
+  version: 0.15.1
+  origversion: 0.15.1_30
+  status: newest
+  summary: Task runner for local and remote hosts
+  maintainers:
+    - ehaupt@freebsd.org
+  categories:
+    - sysutils
+- repo: macports
+  srcname: sysutils/sake
+  binname: sake
+  visiblename: sake
+  version: 0.15.1
+  origversion: null
+  status: newest
+  summary: sake is a task runner for local and remote hosts
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
