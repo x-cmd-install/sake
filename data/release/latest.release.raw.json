@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3164212,
       "digest": null,
-      "download_count": 823,
+      "download_count": 824,
       "created_at": "2023-09-25T10:00:20Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3174473,
       "digest": null,
-      "download_count": 72,
+      "download_count": 73,
       "created_at": "2023-09-25T10:00:19Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_windows_386.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 3267513,
       "digest": null,
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2023-09-25T10:00:16Z",
       "updated_at": "2023-09-25T10:00:16Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_windows_amd64.zip"
