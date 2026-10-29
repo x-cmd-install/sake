@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3282929,
       "digest": null,
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2023-09-25T10:00:19Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3151764,
       "digest": null,
-      "download_count": 204,
+      "download_count": 205,
       "created_at": "2023-09-25T10:00:14Z",
       "updated_at": "2023-09-25T10:00:14Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3164212,
       "digest": null,
-      "download_count": 850,
+      "download_count": 854,
       "created_at": "2023-09-25T10:00:20Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_amd64.tar.gz"
