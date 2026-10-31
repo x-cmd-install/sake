@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1452,
       "digest": null,
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2023-09-25T10:00:20Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3164212,
       "digest": null,
-      "download_count": 855,
+      "download_count": 858,
       "created_at": "2023-09-25T10:00:20Z",
       "updated_at": "2023-09-25T10:00:20Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2979843,
       "digest": null,
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2023-09-25T10:00:15Z",
       "updated_at": "2023-09-25T10:00:15Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_arm.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2884363,
       "digest": null,
-      "download_count": 112,
+      "download_count": 114,
       "created_at": "2023-09-25T10:00:16Z",
       "updated_at": "2023-09-25T10:00:16Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_linux_arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2970163,
       "digest": null,
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2023-09-25T10:00:17Z",
       "updated_at": "2023-09-25T10:00:18Z",
       "browser_download_url": "https://github.com/alajmo/sake/releases/download/v0.15.1/sake_0.15.1_netbsd_arm.tar.gz"
