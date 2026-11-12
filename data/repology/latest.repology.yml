@@ -27,7 +27,7 @@
   binname: sake
   visiblename: sysutils/sake
   version: 0.15.1
-  origversion: 0.15.1_32
+  origversion: 0.15.1_33
   status: newest
   summary: Task runner for local and remote hosts
   maintainers:
