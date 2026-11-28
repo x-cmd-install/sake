@@ -2,15 +2,15 @@ about:
   description: ":robot: task runner for local and remote hosts"
   license: MIT
   homepage: https://sakecli.com
-  head: 86986df
+  head: 7ff68e0
   archived: false
   latestVersion: "v0.15.1"
   latestRelease: "v0.15.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:31:32Z
+  collectedAt: 2026-11-28T09:30:19Z
 timeline:
   created: 2021-10-09
-  lastCommit: 2026-05-30
+  lastCommit: 2026-11-27
   lastVersion: 2023-09-25
   lastRelease: 2023-09-25
   lastPrerelease: 
@@ -31,63 +31,63 @@ language:
 totalBytes: 389389
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 1
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 1
+    commit: 2
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 1
     openPR: 2
     closedIssue: 1
     openIssue: 2
-    commit: 6
+    commit: 7
 total:
   release: 14
   mergedPR: 26
   openPR: 4
   closedIssue: 24
   openIssue: 12
-  commit: 80
+  commit: 81
 ---
 path: /home/runner/.x-repo/github.com/alajmo/sake
-collectedAt: 2026-11-27T09:31:34Z
+collectedAt: 2026-11-28T09:30:20Z
 loc:
   Go:
     code: 11381
@@ -126,8 +126,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1853
-    blanks: 849
+    comments: 1871
+    blanks: 850
     files: 24
   Text:
     code: 0
@@ -136,10 +136,10 @@ loc:
     files: 2
 total:
   code: 17056
-  comments: 3047
-  blanks: 3752
+  comments: 3065
+  blanks: 3753
   files: 130
 ---
 
 ---
-{"id":122416201,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGMCEv84HS-xJ","tag_name":"v0.15.1","target_commitish":"main","name":"v0.15.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-09-25T09:54:39Z","updated_at":"2023-09-25T10:04:34Z","published_at":"2023-09-25T10:00:13Z","assets":[{"id":127607554,"node_id":"RA_kwDOGMCEv84HmyMC","name":"checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1452,"digest":null,"download_count":39,"created_at":"2023-09-25T10:00:20Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607549,"node_id":"RA_kwDOGMCEv84HmyL9","name":"sake_0.15.1_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3282929,"digest":null,"download_count":67,"created_at":"2023-09-25T10:00:19Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607532,"node_id":"RA_kwDOGMCEv84HmyLs","name":"sake_0.15.1_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3151764,"digest":null,"download_count":210,"created_at":"2023-09-25T10:00:14Z","updated_at":"2023-09-25T10:00:14Z"},{"id":127607539,"node_id":"RA_kwDOGMCEv84HmyLz","name":"sake_0.15.1_freebsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3005040,"digest":null,"download_count":29,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:17Z"},{"id":127607541,"node_id":"RA_kwDOGMCEv84HmyL1","name":"sake_0.15.1_freebsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3164144,"digest":null,"download_count":27,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:17Z"},{"id":127607536,"node_id":"RA_kwDOGMCEv84HmyLw","name":"sake_0.15.1_linux_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3011827,"digest":null,"download_count":32,"created_at":"2023-09-25T10:00:15Z","updated_at":"2023-09-25T10:00:15Z"},{"id":127607553,"node_id":"RA_kwDOGMCEv84HmyMB","name":"sake_0.15.1_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3164212,"digest":null,"download_count":930,"created_at":"2023-09-25T10:00:20Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607534,"node_id":"RA_kwDOGMCEv84HmyLu","name":"sake_0.15.1_linux_arm.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2979843,"digest":null,"download_count":38,"created_at":"2023-09-25T10:00:15Z","updated_at":"2023-09-25T10:00:15Z"},{"id":127607537,"node_id":"RA_kwDOGMCEv84HmyLx","name":"sake_0.15.1_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2884363,"digest":null,"download_count":117,"created_at":"2023-09-25T10:00:16Z","updated_at":"2023-09-25T10:00:16Z"},{"id":127607546,"node_id":"RA_kwDOGMCEv84HmyL6","name":"sake_0.15.1_netbsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2997626,"digest":null,"download_count":23,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:19Z"},{"id":127607533,"node_id":"RA_kwDOGMCEv84HmyLt","name":"sake_0.15.1_netbsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3152725,"digest":null,"download_count":26,"created_at":"2023-09-25T10:00:14Z","updated_at":"2023-09-25T10:00:14Z"},{"id":127607542,"node_id":"RA_kwDOGMCEv84HmyL2","name":"sake_0.15.1_netbsd_arm.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2970163,"digest":null,"download_count":27,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:18Z"},{"id":127607544,"node_id":"RA_kwDOGMCEv84HmyL4","name":"sake_0.15.1_openbsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3008809,"digest":null,"download_count":24,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:18Z"},{"id":127607547,"node_id":"RA_kwDOGMCEv84HmyL7","name":"sake_0.15.1_openbsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3167063,"digest":null,"download_count":33,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:19Z"},{"id":127607550,"node_id":"RA_kwDOGMCEv84HmyL-","name":"sake_0.15.1_windows_386.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3174473,"digest":null,"download_count":79,"created_at":"2023-09-25T10:00:19Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607538,"node_id":"RA_kwDOGMCEv84HmyLy","name":"sake_0.15.1_windows_amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3267513,"digest":null,"download_count":115,"created_at":"2023-09-25T10:00:16Z","updated_at":"2023-09-25T10:00:16Z"}],"body":"### Fixes\r\n\r\n- Fix resolving identity file in ssh config correctly when ~ is used.\r\n- Fix public file not found when using ssh config\r\n\r\n"}
+{"id":122416201,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGMCEv84HS-xJ","tag_name":"v0.15.1","target_commitish":"main","name":"v0.15.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-09-25T09:54:39Z","updated_at":"2023-09-25T10:04:34Z","published_at":"2023-09-25T10:00:13Z","assets":[{"id":127607554,"node_id":"RA_kwDOGMCEv84HmyMC","name":"checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":1452,"digest":null,"download_count":39,"created_at":"2023-09-25T10:00:20Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607549,"node_id":"RA_kwDOGMCEv84HmyL9","name":"sake_0.15.1_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3282929,"digest":null,"download_count":67,"created_at":"2023-09-25T10:00:19Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607532,"node_id":"RA_kwDOGMCEv84HmyLs","name":"sake_0.15.1_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3151764,"digest":null,"download_count":210,"created_at":"2023-09-25T10:00:14Z","updated_at":"2023-09-25T10:00:14Z"},{"id":127607539,"node_id":"RA_kwDOGMCEv84HmyLz","name":"sake_0.15.1_freebsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3005040,"digest":null,"download_count":29,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:17Z"},{"id":127607541,"node_id":"RA_kwDOGMCEv84HmyL1","name":"sake_0.15.1_freebsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3164144,"digest":null,"download_count":27,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:17Z"},{"id":127607536,"node_id":"RA_kwDOGMCEv84HmyLw","name":"sake_0.15.1_linux_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3011827,"digest":null,"download_count":32,"created_at":"2023-09-25T10:00:15Z","updated_at":"2023-09-25T10:00:15Z"},{"id":127607553,"node_id":"RA_kwDOGMCEv84HmyMB","name":"sake_0.15.1_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3164212,"digest":null,"download_count":932,"created_at":"2023-09-25T10:00:20Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607534,"node_id":"RA_kwDOGMCEv84HmyLu","name":"sake_0.15.1_linux_arm.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2979843,"digest":null,"download_count":38,"created_at":"2023-09-25T10:00:15Z","updated_at":"2023-09-25T10:00:15Z"},{"id":127607537,"node_id":"RA_kwDOGMCEv84HmyLx","name":"sake_0.15.1_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2884363,"digest":null,"download_count":117,"created_at":"2023-09-25T10:00:16Z","updated_at":"2023-09-25T10:00:16Z"},{"id":127607546,"node_id":"RA_kwDOGMCEv84HmyL6","name":"sake_0.15.1_netbsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2997626,"digest":null,"download_count":23,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:19Z"},{"id":127607533,"node_id":"RA_kwDOGMCEv84HmyLt","name":"sake_0.15.1_netbsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3152725,"digest":null,"download_count":26,"created_at":"2023-09-25T10:00:14Z","updated_at":"2023-09-25T10:00:14Z"},{"id":127607542,"node_id":"RA_kwDOGMCEv84HmyL2","name":"sake_0.15.1_netbsd_arm.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":2970163,"digest":null,"download_count":27,"created_at":"2023-09-25T10:00:17Z","updated_at":"2023-09-25T10:00:18Z"},{"id":127607544,"node_id":"RA_kwDOGMCEv84HmyL4","name":"sake_0.15.1_openbsd_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3008809,"digest":null,"download_count":24,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:18Z"},{"id":127607547,"node_id":"RA_kwDOGMCEv84HmyL7","name":"sake_0.15.1_openbsd_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":3167063,"digest":null,"download_count":33,"created_at":"2023-09-25T10:00:18Z","updated_at":"2023-09-25T10:00:19Z"},{"id":127607550,"node_id":"RA_kwDOGMCEv84HmyL-","name":"sake_0.15.1_windows_386.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3174473,"digest":null,"download_count":79,"created_at":"2023-09-25T10:00:19Z","updated_at":"2023-09-25T10:00:20Z"},{"id":127607538,"node_id":"RA_kwDOGMCEv84HmyLy","name":"sake_0.15.1_windows_amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3267513,"digest":null,"download_count":115,"created_at":"2023-09-25T10:00:16Z","updated_at":"2023-09-25T10:00:16Z"}],"body":"### Fixes\r\n\r\n- Fix resolving identity file in ssh config correctly when ~ is used.\r\n- Fix public file not found when using ssh config\r\n\r\n"}
